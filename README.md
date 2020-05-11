@@ -1,3 +1,5 @@
+all: README.md
+
 readme : guessinggame.sh
 	touch README.md
 	echo "The title of the project: __Guessing Game__" > README.md
