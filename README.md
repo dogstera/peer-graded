@@ -1,5 +1,3 @@
-README.md:
-	echo "The title of the project: Guessing Game" > README.md
-	echo "\nMake was run at: $$(date)\n" >> README.md
-	echo "Number of lines of code contained in guessinggame.sh:" >> README.md
-	cat guessinggame.sh | wc -l >> README.md
+The title of the project: Gessing Game
+
+Make was run at: seg 11 mai 2020 17:45:09 WEST
